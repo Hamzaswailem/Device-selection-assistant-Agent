@@ -18,7 +18,7 @@ Continue Conversation
 
 ### Installation:
 
-pip install -U langchain langchain-community langchain-core
-pip install ollama
-pip install langchain-ollama
-pip install langchain-ollama --upgrade
+- pip install -U langchain langchain-community langchain-core
+- pip install ollama
+- pip install langchain-ollama
+- pip install langchain-ollama --upgrade
